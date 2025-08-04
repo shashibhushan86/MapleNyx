@@ -1,0 +1,1 @@
+console.log("MapleNyx site loaded");
